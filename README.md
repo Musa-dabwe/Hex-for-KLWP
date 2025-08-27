@@ -9,7 +9,7 @@ Neomorphic KLWP wallpaper
 https://play.google.com/store/apps/details?id=com.maxpatchs.freehepta
 - To apply your preferred icons from the pack. Download iconzy.apk available on Aptoide.
 - The theme is fully customizable
-- Requires KLWP App
+- Requires KLWP Latest version 
   
 ### Contacts
 Email: foxxmusa@gmail.com  
